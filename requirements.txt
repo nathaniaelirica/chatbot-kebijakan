@@ -1,0 +1,10 @@
+chromadb==0.5.4
+fastapi==0.111.1
+langchain_community==0.2.10
+llama_index==0.10.58
+pydantic==2.8.2
+Requests==2.32.3
+streamlit==1.31.1
+uvicorn==0.30.3
+llama-index-vector-stores-chroma==0.1.10
+sentence-transformers==3.0.1
